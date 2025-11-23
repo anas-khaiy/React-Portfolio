@@ -1,27 +1,31 @@
 https://anas-khaiy.web.app/
 
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 03 49 PM" src="https://github.com/user-attachments/assets/41724fec-4284-4acf-b868-bdd9cd211c8e" />
 
-<img width="1710" height="881" alt="Screenshot 2025-11-18 at 1 41 03 PM" src="https://github.com/user-attachments/assets/a0eeb17c-76eb-460f-a797-9128ccc49b18" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 04 10 PM" src="https://github.com/user-attachments/assets/cfd4419f-36e0-445a-8a9a-4c038cf53b67" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 05 48 PM" src="https://github.com/user-attachments/assets/95434ce0-e799-40da-9373-1d567ea94f3c" />
 
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 06 06 PM" src="https://github.com/user-attachments/assets/8d41728a-440e-4cc3-bb96-f548e7b41033" />
 
-<img width="1710" height="881" alt="Screenshot 2025-11-18 at 1 41 14 PM" src="https://github.com/user-attachments/assets/884a24c5-f7b7-41ec-8022-fe103b3c8fd9" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 06 15 PM" src="https://github.com/user-attachments/assets/6b25654e-f3e8-4952-bd2f-31120484b534" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 06 25 PM" src="https://github.com/user-attachments/assets/1ec6c207-9123-4233-9a00-5e97852b415a" />
 
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 07 20 PM" src="https://github.com/user-attachments/assets/be2e88cf-a179-4220-9ded-d7f89ee4da34" />
 
-
-<img width="1710" height="881" alt="Screenshot 2025-11-18 at 1 41 27 PM" src="https://github.com/user-attachments/assets/844a92f5-3916-48a5-a6d7-99ac5d6f9fe0" />
-
-
-
-<img width="1710" height="881" alt="Screenshot 2025-11-18 at 1 41 42 PM" src="https://github.com/user-attachments/assets/fd6837bc-90db-4754-ac32-59d79c331d53" />
-
-
-
-
-<img width="1710" height="881" alt="Screenshot 2025-11-18 at 1 41 51 PM" src="https://github.com/user-attachments/assets/526d67b9-899e-4243-af3c-8225e55bdf12" />
-
-<img width="1710" height="881" alt="Screenshot 2025-11-18 at 1 42 02 PM" src="https://github.com/user-attachments/assets/1dc1fc1a-4f28-4a31-8f8f-2b7b4a4e7b51" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 07 26 PM" src="https://github.com/user-attachments/assets/5b624935-a8b3-43ea-b15d-245ae9afe9b9" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 08 14 PM" src="https://github.com/user-attachments/assets/a28fd1ab-9949-4b64-aaf3-dd847309f7e7" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 08 24 PM" src="https://github.com/user-attachments/assets/60e85730-1ef2-4cd7-93d7-fd7b1e452f99" />
 
 
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 09 26 PM" src="https://github.com/user-attachments/assets/8fb1768f-56d8-40d0-8ff2-5a244e3a9fd9" />
+
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 09 35 PM" src="https://github.com/user-attachments/assets/c3e13ab6-1bbe-4677-8483-ecb6154f720a" />
+<img width="1710" height="995" alt="Screenshot 2025-11-23 at 12 09 43 PM" src="https://github.com/user-attachments/assets/3b5f9ded-008c-4bb6-9600-df6c6a3087c8" />
+
+
+<img width="497" height="995" alt="Screenshot 2025-11-23 at 12 10 39 PM" src="https://github.com/user-attachments/assets/55f1cbb4-f9c7-422b-9842-feeeddeb24e4" />
+
+<img width="497" height="995" alt="Screenshot 2025-11-23 at 12 10 46 PM" src="https://github.com/user-attachments/assets/7cd3fa3d-6a16-477a-b10c-7319c990715c" />
 
 # React + TypeScript + Vite
 
